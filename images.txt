@@ -1,1 +1,1 @@
-xuxueli/xxl-job-admin:3.1.0
+lmsysorg/sglang:v0.4.7-cu124
