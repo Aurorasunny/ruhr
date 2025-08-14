@@ -1,1 +1,1 @@
-ghcr.io/wyeeeee/hajimi:latest
+alexsuntop/mineru-sglang:latest
