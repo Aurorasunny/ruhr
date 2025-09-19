@@ -1,2 +1,2 @@
-ghcr.io/astral-sh/uv:python3.13-bookworm
+vllm/vllm-openai:v0.10.1.1
 
