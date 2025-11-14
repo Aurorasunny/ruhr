@@ -1,2 +1,2 @@
-openlistteam/openlist:latest
+onlyoffice/documentserver:latest
 
