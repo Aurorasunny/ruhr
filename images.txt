@@ -1,1 +1,1 @@
-calciumion/new-api:latest
+otel/opentelemetry-collector-contrib:0.128.0
