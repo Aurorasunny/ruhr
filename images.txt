@@ -1,1 +1,1 @@
-prom/alertmanager:latest
+timonwong/prometheus-webhook-dingtalk:latest
