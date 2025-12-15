@@ -1,1 +1,1 @@
-timonwong/prometheus-webhook-dingtalk:latest
+ghcr.io/huggingface/text-embeddings-inference:1.7.2
