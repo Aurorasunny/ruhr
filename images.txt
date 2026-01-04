@@ -1,1 +1,1 @@
-ghcr.io/huggingface/text-embeddings-inference:cpu-1.8
+docker pull neosmemo/memos:stable
