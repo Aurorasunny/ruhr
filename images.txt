@@ -1,1 +1,1 @@
-neosmemo/memos:stable
+neo4j:latest
