@@ -1,1 +1,2 @@
-ousresearch/hermes-agent:latest
+nousresearch/hermes-agent:main
+
