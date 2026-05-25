@@ -1,1 +1,1 @@
-ghcr.io/outsourc-e/hermes-workspace:latest
+neo4j:latest
