@@ -1,1 +1,1 @@
-python:3.11-slim
+quay.io/ascend/vllm-ascend:v0.20.2rc1-310p
