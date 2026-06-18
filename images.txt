@@ -1,1 +1,1 @@
-quay.io/ascend/vllm-ascend:v0.20.2rc1-310p-openeuler
+ghcr.io/luce-org/lucebox-hub:cuda12
