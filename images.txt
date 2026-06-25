@@ -1,1 +1,1 @@
-ghcr.io/luce-org/lucebox-hub:cuda12
+ghcr.io/berriai/litellm-database:main-latest
