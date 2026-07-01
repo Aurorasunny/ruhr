@@ -1,1 +1,1 @@
-ringcentral/jdk:17.0.18
+docker.litellm.ai/berriai/litellm:latest
